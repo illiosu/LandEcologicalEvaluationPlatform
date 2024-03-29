@@ -8,4 +8,4 @@
 # src\layout\main\index.vue
 
 此为二级路由的入口
-二级路由的父组件为main
+二级路由的父组件为main。
