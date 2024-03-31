@@ -65,6 +65,7 @@ const handleSelect = (key: string, keyPath: string[]) => {
 }
 .avatar-container {
   display: flex;
+  left: 2vw;
   align-items: center;
   height: 100%;
 }
